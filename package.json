@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Homework 12",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steven-M-Carpenter/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "homework",
+    "bootcampe"
+  ],
+  "author": "Steve Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steven-M-Carpenter/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Steven-M-Carpenter/Bamazon#readme"
+}
