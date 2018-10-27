@@ -39,3 +39,18 @@ Supervisor | `node bamazonSupervisor.js`
 **Happy Shopping** 
 **or Managing** 
 **or Supervising**
+
+
+## Links to Demos
+
+Customer Movie
+https://drive.google.com/file/d/1_c_pt3CwFK2BJbiXciqisFVUU1TL9sKY/view
+
+Manager Movie
+https://drive.google.com/file/d/1m24Hc_L-zFHMwF0BPIH-dZqd2h-WzWIC/view
+
+Supervisor Movie
+https://drive.google.com/file/d/1D6Sny7QnSLImvodsxwBPESBOsX6lHjzb/view
+
+
+
