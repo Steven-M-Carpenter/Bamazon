@@ -36,6 +36,6 @@ Manager | `node bamazonManager.js`
 Supervisor | `node bamazonSupervisor.js` 
 
 
-** Happy Shopping ** 
-** or Managing ** 
-** or Supervising **
+**Happy Shopping** 
+**or Managing** 
+**or Supervising**
