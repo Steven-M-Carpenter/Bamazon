@@ -4,7 +4,8 @@
   "description": "Homework 12",
   "main": "bamazonCustomer.js",
   "dependencies": {
-    "inquirer": "^6.2.0"
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
   },
   "devDependencies": {},
   "scripts": {
